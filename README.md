@@ -1,5 +1,7 @@
 # DW Final Assignment
 
+Here is a link to my [YouTube video](https://youtu.be/WrK25hRxH-s).
+
 ## My own take on the game Plants vs Zombies
 
 The original was a tower defence and strategy game where the player takes on the role of a homeowner in the midst of a zombie apocalypse who uses plants to fire projectiles at advancing zombies.
@@ -17,6 +19,8 @@ To attack the zombies, the player would have to click on the plant they want to 
 Each zombie has 4 healthpoints(hp), and when they run out of hp they will die, or disappear from the lane.
 
 There are 3 waves of zombies and the player wins if they are able to clear all 3 waves.
+
+If the player wants to restart the game, they can also do so by exiting to the main menu and starting the game from scratch.
 
 ## Code Discription
 
